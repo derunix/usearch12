@@ -1,5 +1,5 @@
 <p align="left"><img src="https://rcedgar.github.io/usearch12_documentation/usearch12_banner.jpg"/></p>
-
+ 
 Usearch implements several popular biological sequence search and clustering algorithms, including USEARCH, UCLUST, UPARSE, UCHIME, UNOISE and SINTAX.
 
 Version 12 is the first open-source version of usearch. Compared to earlier versions, functionality which is sufficiently covered by other open-source projects has been removed. In particular, there is no support for OTU table manipulation or diversity analysis which is well supported by other tools such as [QIIME](https://qiime2.org/) and [DADA2](https://benjjneb.github.io/dada2/). The goal here is to simplify the package as much as reasonably possible to encourage collaborators to join the open-source project.
